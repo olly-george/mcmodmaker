@@ -1,0 +1,32 @@
+﻿<Window x:Class="MinecraftModMaker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MinecraftModMaker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="grid_Main">
+
+        <Menu Height="22" Name="mainMenu" Width="{Binding ElementName=grid_Main,Path=ActualWidth}" Margin="10, 10, 5, 5" 
+              HorizontalAlignment="Left" VerticalAlignment="Top" Background="Silver">
+            
+            <MenuItem Header="_File">  
+                <MenuItem Header="_Open" IsCheckable="true" />  
+                <MenuItem Header="_Close" IsCheckable="true" />  
+                <MenuItem Header="_Save" IsCheckable="true" />  
+            </MenuItem>  
+  
+            <MenuItem Header="_Create Type">  
+                <MenuItem Header="_New Block" IsCheckable="False" />  
+                <MenuItem Header="_New Item" IsCheckable="False" />  
+                <MenuItem Header="_New Summonable Object" IsCheckable="False" />  
+                <MenuItem Header="_New Mob" IsCheckable="False" />  
+                <MenuItem Header="_New Texture" IsCheckable="False" />  
+                <MenuItem Header="_New Behaviour" IsCheckable="False" />  
+                <MenuItem Header="_New Naturally Generated Structure" IsCheckable="False" />  
+            </MenuItem>  
+        </Menu>  
+
+    </Grid>
+</Window>
