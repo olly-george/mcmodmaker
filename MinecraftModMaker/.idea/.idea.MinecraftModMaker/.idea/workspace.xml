@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07cae560-5afa-496f-b0ac-f2bbcdcb262c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftModMaker/MinecraftModMaker.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftModMaker/MinecraftModMaker.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +17,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="105">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding>
-                <marker date="1555233531362" expanded="true" signature="0:1285" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
-                <marker date="1555233531362" expanded="true" signature="468:1275" ph="&lt;&lt;Menu Name=&quot;mainMenu&quot;&gt;&#10;            &lt;MenuItem Name=&quot;File&quot;&gt;File&lt;/MenuItem&gt;&#10;        &lt;/Menu&gt;.../&gt;" />
-                <marker date="1555233531362" expanded="true" signature="501:1260" ph="&lt;.../&gt;" />
-                <marker date="1555233531362" expanded="true" signature="726:973" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
-                <marker date="1555233531362" expanded="true" signature="991:1242" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
+                <marker date="1555238482364" expanded="true" signature="0:1944" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1555238482364" expanded="true" signature="488:1934" ph="&lt;&lt;Menu Name=&quot;mainMenu&quot;&gt;&#10;            &lt;MenuItem Name=&quot;File&quot;&gt;File&lt;/MenuItem&gt;&#10;        &lt;/Menu&gt;.../&gt;" />
+                <marker date="1555238482364" expanded="true" signature="521:1919" ph="&lt;.../&gt;" />
+                <marker date="1555238482364" expanded="true" signature="746:993" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
+                <marker date="1555238482364" expanded="true" signature="1011:1901" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MinecraftModMaker/Program.bmp">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -85,7 +89,7 @@
           </expand>
           <select />
         </subPane>
-        <option name="show-all-files" value="false" />
+        <option name="show-all-files" value="true" />
       </pane>
       <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
@@ -141,12 +145,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555233045680</updated>
-      <workItem from="1555233048329" duration="485000" />
+      <workItem from="1555233048329" duration="3112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485000" />
+    <option name="totallyTimeSpent" value="3112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,8 +162,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -171,15 +174,15 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="XAML Preview" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Performance Profiler" />
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -208,16 +211,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/Program.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="105">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
-            <marker date="1555233531362" expanded="true" signature="0:1285" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1555233531362" expanded="true" signature="468:1275" ph="&lt;&lt;Menu Name=&quot;mainMenu&quot;&gt;&#10;            &lt;MenuItem Name=&quot;File&quot;&gt;File&lt;/MenuItem&gt;&#10;        &lt;/Menu&gt;.../&gt;" />
-            <marker date="1555233531362" expanded="true" signature="501:1260" ph="&lt;.../&gt;" />
-            <marker date="1555233531362" expanded="true" signature="726:973" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
-            <marker date="1555233531362" expanded="true" signature="991:1242" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
+            <marker date="1555238482364" expanded="true" signature="0:1944" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1555238482364" expanded="true" signature="488:1934" ph="&lt;&lt;Menu Name=&quot;mainMenu&quot;&gt;&#10;            &lt;MenuItem Name=&quot;File&quot;&gt;File&lt;/MenuItem&gt;&#10;        &lt;/Menu&gt;.../&gt;" />
+            <marker date="1555238482364" expanded="true" signature="521:1919" ph="&lt;.../&gt;" />
+            <marker date="1555238482364" expanded="true" signature="746:993" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
+            <marker date="1555238482364" expanded="true" signature="1011:1901" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
           </folding>
         </state>
       </provider>
