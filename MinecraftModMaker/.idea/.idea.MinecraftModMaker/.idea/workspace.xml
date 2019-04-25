@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07cae560-5afa-496f-b0ac-f2bbcdcb262c" name="Default Changelist" comment="" />
+    <list default="true" id="07cae560-5afa-496f-b0ac-f2bbcdcb262c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinecraftModMaker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftModMaker/MinecraftModMaker.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftModMaker/MinecraftModMaker.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftModMaker/Program.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftModMaker/Program.bmp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +15,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MinecraftModMaker/App.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <marker date="1555233041809" expanded="true" signature="0:375" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+                <marker date="1555233041809" expanded="true" signature="298:360" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <marker date="1555318553230" expanded="true" signature="50:450" ph="{...}" />
+                <marker date="1555318553230" expanded="true" signature="57:135" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1555318553230" expanded="true" signature="171:448" ph="{...}" />
+                <marker date="1555318553230" expanded="true" signature="205:260" ph="{...}" />
+                <marker date="1555318553230" expanded="true" signature="341:442" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MinecraftModMaker/App.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <marker date="1555233060713" expanded="true" signature="27:148" ph="{...}" />
+                <marker date="1555233060713" expanded="true" signature="34:105" ph="/// Interaction logic for App.xaml ... " />
+                <marker date="1555233060713" expanded="true" signature="134:146" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MinecraftModMaker/Program.bmp">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <marker date="1555318319146" expanded="true" signature="0:1977" ph="&lt;&lt;Grid Name=&quot;grid_Main&quot;&gt;&#10;&#10;        &lt;Menu Height=&quot;22&quot; Name=&quot;mainMenu&quot; Width=&quot;{Binding ElementName=grid_Main,Path=ActualWidth}&quot; Margin=&quot;10, 10, 5, 5&quot; &#10;              HorizontalAlignment=&quot;Left&quot; VerticalAlignment=&quot;Top&quot; Background=&quot;Silver&quot;&gt;&#10;            &#10;            &lt;MenuItem Header=&quot;_File&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;            &lt;/MenuItem&gt;  &#10;  &#10;            &lt;MenuItem Header=&quot;_Create Type&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &#10;                &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt; &#10;            &lt;/MenuItem&gt;  &#10;        &lt;/Menu&gt;  &#10;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1555318319146" expanded="true" signature="488:1967" ph="&lt;&lt;Menu Height=&quot;22&quot; Name=&quot;mainMenu&quot; Width=&quot;{Binding ElementName=grid_Main,Path=ActualWidth}&quot; Margin=&quot;10, 10, 5, 5&quot; &#10;              HorizontalAlignment=&quot;Left&quot; VerticalAlignment=&quot;Top&quot; Background=&quot;Silver&quot;&gt;&#10;            &#10;            &lt;MenuItem Header=&quot;_File&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;            &lt;/MenuItem&gt;  &#10;  &#10;            &lt;MenuItem Header=&quot;_Create Type&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &#10;                &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt; &#10;            &lt;/MenuItem&gt;  &#10;        &lt;/Menu&gt;.../&gt;" />
+                <marker date="1555318319146" expanded="true" signature="521:1952" ph="&lt;&lt;MenuItem Header=&quot;_File&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;_Create Type&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &#10;                &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt; &#10;            &lt;/MenuItem&gt;.../&gt;" />
+                <marker date="1555318319146" expanded="true" signature="746:993" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
+                <marker date="1555318319146" expanded="true" signature="1011:1934" ph="&lt;&lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt; &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -22,17 +82,24 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MinecraftModMaker/MinecraftModMaker.exe.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinecraftModMaker/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinecraftModMaker/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinecraftModMaker/bin/Debug/MinecraftModMaker.exe.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml.cs" />
         <option value="$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="222" />
-    <option name="y" value="259" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-332" />
+    <option name="y" value="199" />
     <option name="width" value="1932" />
     <option name="height" value="1047" />
   </component>
@@ -42,36 +109,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MinecraftModMaker" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MinecraftModMaker" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MinecraftModMaker" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MinecraftModMaker" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MinecraftModMaker" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="App.xaml" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MinecraftModMaker" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MinecraftModMaker" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MainWindow.xaml" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -79,7 +120,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -125,7 +166,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555233045680</updated>
-      <workItem from="1555233048329" duration="3236000" />
+      <workItem from="1555233048329" duration="7688000" />
+      <workItem from="1555405657308" duration="34000" />
+      <workItem from="1555406728916" duration="1214000" />
+      <workItem from="1555583989412" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="Changed the main window title, and added an icon.">
       <created>1555241072331</created>
@@ -134,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555241072332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea stuff">
+      <created>1555241212540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555241212540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3236000" />
+    <option name="totallyTimeSpent" value="9546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,47 +201,49 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="XAML Preview" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3954496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="XAML Preview" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.5742145" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.32827735" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed the main window title, and added an icon." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the main window title, and added an icon." />
+    <MESSAGE value="idea stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -203,15 +256,65 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/bin/Debug/Program.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/bin/Debug/MinecraftModMaker.exe.config">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MinecraftModMaker/Program.bmp">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1555233041809" expanded="true" signature="0:375" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1555233041809" expanded="true" signature="298:360" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1555318553230" expanded="true" signature="50:450" ph="{...}" />
+            <marker date="1555318553230" expanded="true" signature="57:135" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1555318553230" expanded="true" signature="171:448" ph="{...}" />
+            <marker date="1555318553230" expanded="true" signature="205:260" ph="{...}" />
+            <marker date="1555318553230" expanded="true" signature="341:442" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1555233060713" expanded="true" signature="27:148" ph="{...}" />
+            <marker date="1555233060713" expanded="true" signature="34:105" ph="/// Interaction logic for App.xaml ... " />
+            <marker date="1555233060713" expanded="true" signature="134:146" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinecraftModMaker/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <marker date="1555318319146" expanded="true" signature="0:1977" ph="&lt;&lt;Grid Name=&quot;grid_Main&quot;&gt;&#10;&#10;        &lt;Menu Height=&quot;22&quot; Name=&quot;mainMenu&quot; Width=&quot;{Binding ElementName=grid_Main,Path=ActualWidth}&quot; Margin=&quot;10, 10, 5, 5&quot; &#10;              HorizontalAlignment=&quot;Left&quot; VerticalAlignment=&quot;Top&quot; Background=&quot;Silver&quot;&gt;&#10;            &#10;            &lt;MenuItem Header=&quot;_File&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;            &lt;/MenuItem&gt;  &#10;  &#10;            &lt;MenuItem Header=&quot;_Create Type&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &#10;                &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt; &#10;            &lt;/MenuItem&gt;  &#10;        &lt;/Menu&gt;  &#10;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1555318319146" expanded="true" signature="488:1967" ph="&lt;&lt;Menu Height=&quot;22&quot; Name=&quot;mainMenu&quot; Width=&quot;{Binding ElementName=grid_Main,Path=ActualWidth}&quot; Margin=&quot;10, 10, 5, 5&quot; &#10;              HorizontalAlignment=&quot;Left&quot; VerticalAlignment=&quot;Top&quot; Background=&quot;Silver&quot;&gt;&#10;            &#10;            &lt;MenuItem Header=&quot;_File&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;            &lt;/MenuItem&gt;  &#10;  &#10;            &lt;MenuItem Header=&quot;_Create Type&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &#10;                &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt; &#10;            &lt;/MenuItem&gt;  &#10;        &lt;/Menu&gt;.../&gt;" />
+            <marker date="1555318319146" expanded="true" signature="521:1952" ph="&lt;&lt;MenuItem Header=&quot;_File&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;  &#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;_Create Type&quot;&gt;  &#10;                &lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt;  &#10;                &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &#10;                &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt; &#10;            &lt;/MenuItem&gt;.../&gt;" />
+            <marker date="1555318319146" expanded="true" signature="746:993" ph="&lt;&lt;MenuItem Header=&quot;_Open&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Close&quot; IsCheckable=&quot;true&quot; /&gt; &lt;MenuItem Header=&quot;_Save&quot; IsCheckable=&quot;true&quot; /&gt;.../&gt;" />
+            <marker date="1555318319146" expanded="true" signature="1011:1934" ph="&lt;&lt;MenuItem Header=&quot;New _Block&quot; IsCheckable=&quot;False&quot; Click=&quot;MenuItemNewBlock_OnClick&quot; /&gt; &lt;MenuItem Header=&quot;New _Item&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Summoned Object&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Mob&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Texture&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New Beha_viour&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Naturally Generated Structure&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Command&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New T_heme Tune&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Menu Button&quot; IsCheckable=&quot;False&quot; /&gt; &lt;MenuItem Header=&quot;New _Resource Pack &quot; IsCheckable=&quot;False&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\dev\MinecraftEditor\MinecraftModMaker" t="IncludeFlat">
+    <e p="C:\Users\olly_\.Rider2018.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\olly_\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\olly_\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\olly_\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\olly_\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MinecraftModMaker.-462007117.00" t="ExcludeRecursive" />
+    <e p="C:\Users\olly_\dev\MinecraftEditor\MinecraftModMaker" t="IncludeFlat">
       <e p="MinecraftModMaker" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="App.xaml" t="Include" />
@@ -12,6 +17,7 @@
         <e p="MinecraftModMaker.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.bmp" t="Include" />
+        <e p="Program.png" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
           <e p="Resources.Designer.cs" t="Include" />
@@ -21,10 +27,5 @@
       <e p="MinecraftModMaker.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
-    <e p="C:\Users\olly_\.Rider2018.3\config\consoles\db" t="IncludeRecursive" />
-    <e p="C:\Users\olly_\.Rider2018.3\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\olly_\.Rider2018.3\config\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\olly_\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\olly_\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MinecraftModMaker.1714173038.00" t="ExcludeRecursive" />
   </component>
 </project>
