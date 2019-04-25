@@ -14,7 +14,8 @@ namespace MinecraftModMaker
 
         private void MenuItemNewBlock_OnClick(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("New block was selected. Do you wish to procceed?");
+            var result = ConfirmActionDialog.ShowDialog("New block was selected. Do you wish to procceed?", this);
+            MessageBox.Show($"Ok: {result.Ok}, ShowAgain {result.ShowAgain}");
         }
     }
 }
